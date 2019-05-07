@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bd3bfad-3b44-403a-8ea9-53a60b49e27c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/fiberhome-security-app/target/" />
+    <ignored path="$PROJECT_DIR$/fiberhome-security-core/target/" />
+    <ignored path="$PROJECT_DIR$/fiberhome-security/target/" />
+    <ignored path="$PROJECT_DIR$/fiberhome-security-demo/target/" />
+    <ignored path="$PROJECT_DIR$/fiberhome-security-browser/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1305396606">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="19" />
+          <entry key="html" value="12" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="202" />
+          <entry key="md" value="1" />
+          <entry key="pom" value="7" />
+          <entry key="properties" value="13" />
+          <entry key="xml" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="19" />
+          <entry key="HTML" value="12" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="202" />
+          <entry key="Markdown" value="1" />
+          <entry key="Properties" value="13" />
+          <entry key="XML" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="html" value="223" />
+          <entry key="java" value="7386" />
+          <entry key="properties" value="378" />
+          <entry key="xml" value="221" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="223" />
+          <entry key="JAVA" value="7386" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Properties" value="378" />
+          <entry key="XML" value="221" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-security-study" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/BrowserSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="75" column="79" lean-forward="true" selection-start-line="75" selection-start-column="79" selection-end-line="75" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/AbstractChannelSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" column="97" selection-start-line="23" selection-start-column="97" selection-end-line="23" selection-end-column="97" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/SecurityProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding>
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/SmsCodeFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-654">
+              <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/impl/AbstractValidateCodeProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/image/ImageCodeProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ationConfigEmbeddedWebApplicationContext</find>
+      <find>org.apache.m</find>
+      <find>spring-cloud-aws.version</find>
+      <find>jdbc</find>
+      <find>jar</find>
+      <find>imooc</find>
+      <find>packaging</find>
+      <find>redis</find>
+      <find>providerSignInUtils</find>
+      <find>fiberhomeAuthenticationFailureHandler</find>
+      <find>sessionStrategy</find>
+      <find>credentials</find>
+      <find>obtainMobile</find>
+      <find>登录失败</find>
+      <find>validate</find>
+      <find>validateCodeFilter</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../generated" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../java8-the-missing-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-security" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-config-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-account" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-authorize" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-external-system" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-operation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-order" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-payment" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-product" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-quartz" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-store" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-service-system" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-store" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vas-ui-web" value="PREVIEW" />
+        <entry key="D:/vas-config-server" value="PREVIEW" />
+        <entry key="D:/vas-service-order" value="PREVIEW" />
+        <entry key="D:/vas-store" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fiberhome-security-browser/src/main/resources/resources/imooc-signUp.html" />
+        <option value="$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/support/SimpleResponse.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-demo/src/main/resources/demo-signIn.html" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/SecurityCoreConfig.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/BrowserSecurityController.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-demo/src/main/resources/resources/demo-signIn.html" />
+        <option value="$PROJECT_DIR$/fiberhome-security-demo/src/main/java/com/fiberhome/async/AbstractTask.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-demo/src/main/java/com/fiberhome/async/AsyncTask.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-demo/src/main/java/com/fiberhome/async/AsyncTaskTest.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/LoginType.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-demo/src/main/java/com/fiberhome/web/UserController.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeException.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/authentication/FiberhomeAuthenticationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/SecurityProperties.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ImageCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-demo/src/main/java/com/fiberhome/code/DemoImageCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/BrowserProperties.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/SmsCode.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ImageCode.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCode.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/sms/SmsCodeSender.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/sms/DefaultSmsCodeSender.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/SmsCodeProperties.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/ImageCodeProperties.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/ValidateCodeProperties.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/SmsCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeType.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/image/ImageCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeProcessor.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/impl/AbstractValidateCodeProcessor.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/mobile/SmsCodeAuthenticationToken.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/authentication/FiberhomeAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/mobile/SmsCodeAuthenticationSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/mobile/SmsCodeAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/sms/SmsCodeGenerator.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeBeanConfig.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-browser/src/main/resources/resources/imooc-signIn.html" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/SecurityConstants.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/AbstractChannelSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/sms/SmsCodeProcessor.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/image/ImageCodeProcessor.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeProcessorHolder.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeFilter.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/SmsCodeFilter.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/BrowserSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Lu Liang liang\.m2\repository" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fiberhome-security" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fiberhome-security" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fiberhome-security-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fiberhome-security-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="22" />
+    <option name="y" value="40" />
+    <option name="width" value="1675" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-browser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-browser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-browser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-browser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-browser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-browser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-browser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fiberhome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-security-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fiberhome-security-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="SecurityConst&#9;FILE&#9;file://D:/WorkSpace/spring-security-study/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/SecurityConstants.java&#10;usern&#9;FILE&#9;jar://C:/Users/Lu Liang liang/.m2/repository/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java&#10;usernamepa&#9;FILE&#9;jar://C:/Users/Lu Liang liang/.m2/repository/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.java&#10;SecurityContext&#9;PSI&#9;JAVA://org.springframework.security.core.context.SecurityContext&#10;User&#9;FILE&#9;jar://C:/Users/Lu Liang liang/.m2/repository/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java&#10;AbstractUserDet&#9;FILE&#9;jar://C:/Users/Lu Liang liang/.m2/repository/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java&#10;UsernamepasswordA&#9;FILE&#9;jar://C:/Users/Lu Liang liang/.m2/repository/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java&#10;UserNamePassword&#9;FILE&#9;jar://C:/Users/Lu Liang liang/.m2/repository/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java&#10;passwordEncoder&#9;PSI&#9;JAVA://org.springframework.security.crypto.password.PasswordEncoder&#10;UserDetailsService&#9;PSI&#9;JAVA://org.springframework.security.core.userdetails.UserDetailsService&#10;UsernamePasswordAuthenticationFilter&#9;PSI&#9;JAVA://org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter&#10;ExceptionTranslation&#9;PSI&#9;JAVA://org.springframework.security.web.access.ExceptionTranslationFilter&#10;FilterSecurityInterceptor&#9;PSI&#9;JAVA://org.springframework.security.web.access.intercept.FilterSecurityInterceptor&#10;ationConfigEmbeddedWebApplicationContext&#9;PSI&#9;JAVA://org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/vas-config-server/build.gradle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5322101" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AdvancedConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.fiberhome" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\spring-security-study\fiberhome-security-demo\src\main\resources\resources" />
+      <recent name="D:\WorkSpace\spring-security-study\fiberhome-security-browser\src\main\resources\resources" />
+      <recent name="D:\WorkSpace\spring-security-study\fiberhome-security-demo\src\main\java\com\fiberhome\validator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fiberhome.security.core.validate.code" />
+      <recent name="com.fiberhome.security.core.properties" />
+      <recent name="com.fiberhome.security.browser.authentication" />
+      <recent name="com.fiberhome.dto" />
+      <recent name="com.fiberhome.web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\spring-security-study\fiberhome-security-demo\src\main\resources\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="AsyncTaskTest.testAsyncTasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fiberhome-security-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiberhome.async.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fiberhome.async" />
+      <option name="MAIN_CLASS_NAME" value="com.fiberhome.async.AsyncTaskTest" />
+      <option name="METHOD_NAME" value="testAsyncTasks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fiberhome-security-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fiberhome.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_spring-security-study" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54106" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54101" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="JUnit.AsyncTaskTest.testAsyncTasks" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AsyncTaskTest.testAsyncTasks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd3bfad-3b44-403a-8ea9-53a60b49e27c" name="Default Changelist" comment="" />
+      <created>1555638792448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555638792448</updated>
+      <workItem from="1555638795217" duration="10745000" />
+      <workItem from="1555656082873" duration="2496000" />
+      <workItem from="1555658906816" duration="63000" />
+      <workItem from="1555658984292" duration="6936000" />
+      <workItem from="1555896691600" duration="583000" />
+      <workItem from="1555904475628" duration="26364000" />
+      <workItem from="1556355443228" duration="8000" />
+      <workItem from="1556616477942" duration="49267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AsyncTaskTest_testAsyncTasks - 2019.04.26 at 17h 35m 12s.xml">
+      <configuration name="AsyncTaskTest.testAsyncTasks" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AsyncTaskTest_testAsyncTasks - 2019.04.26 at 17h 36m 33s.xml">
+      <configuration name="AsyncTaskTest.testAsyncTasks" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="96462000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="JRebel" order="0" side_tool="true" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5008026" side_tool="true" weight="0.21908316" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49919742" visible="true" weight="0.21375267" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="JRebel Executor" order="0" />
+      <window_info anchor="bottom" id="JRebel Console" order="1" sideWeight="0.50216717" side_tool="true" weight="0.3895487" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.30846325" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.4996904" weight="0.47438753" />
+      <window_info anchor="bottom" id="Debug" order="13" sideWeight="0.4978328" visible="true" weight="0.3518931" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" weight="0.30846325" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="17" />
+      <window_info anchor="bottom" id="Messages" order="18" weight="0.12026726" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.17359856" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/SmsCodeFilter.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeController.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/impl/AbstractValidateCodeProcessor.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>beanFactory.containsBean(LOAD_TIME_WEAVER_BEAN_NAME)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/context/SecurityContextHolderStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/context/ThreadLocalSecurityContextHolderStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#1270#1287#0" expanded="true" />
+            <element signature="e#1877#1878#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-demo/src/main/java/com/fiberhome/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="89" column="45" lean-forward="true" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1321#1322#0" expanded="true" />
+            <element signature="e#1339#1340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/AuthenticationFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/InitializingBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/SecurityCoreConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/core/Authentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/BrowserSecurityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-demo/src/main/java/com/fiberhome/code/DemoImageCodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/rememberme/JdbcTokenRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/BrowserProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/rememberme/PersistentTokenRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/ValidateCodeProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/context/request/ServletWebRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/ImageCodeProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/SmsCodeProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/image/ImageCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="104" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="182" column="5" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="182" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE.jar!/org/springframework/security/config/annotation/SecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="98" lean-forward="true" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/authentication/FiberhomeAuthenticationSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeBeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/sms/SmsCodeSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/authentication/FiberhomeAuthenticationFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/sms/SmsCodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/image/ImageCodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-browser/src/main/resources/resources/imooc-signIn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="45" column="54" lean-forward="true" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/mobile/SmsCodeAuthenticationSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/mobile/SmsCodeAuthenticationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2106#2107#0" expanded="true" />
+            <element signature="e#2143#2144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/sms/DefaultSmsCodeSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/mobile/SmsCodeAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/SecurityConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/sms/SmsCodeProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="52" lean-forward="true" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeProcessorHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/mobile/SmsCodeAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/SmsCodeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/authentication/AbstractChannelSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-browser/src/main/java/com/fiberhome/security/browser/BrowserSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="75" column="79" lean-forward="true" selection-start-line="75" selection-start-column="79" selection-end-line="75" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/impl/AbstractValidateCodeProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/image/ImageCodeProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/properties/SecurityProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="97" selection-start-line="23" selection-start-column="97" selection-end-line="23" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiberhome-security-core/src/main/java/com/fiberhome/security/core/validate/code/ValidateCodeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5322101" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (fiberhome-security-demo)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5322101" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5322101" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5322101" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fiberhome-security-core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5322101" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5322101" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

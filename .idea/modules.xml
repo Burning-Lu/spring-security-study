@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fiberhome-security/fiberhome-security.iml" filepath="$PROJECT_DIR$/fiberhome-security/fiberhome-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiberhome-security-app/fiberhome-security-app.iml" filepath="$PROJECT_DIR$/fiberhome-security-app/fiberhome-security-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiberhome-security-browser/fiberhome-security-browser.iml" filepath="$PROJECT_DIR$/fiberhome-security-browser/fiberhome-security-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiberhome-security-core/fiberhome-security-core.iml" filepath="$PROJECT_DIR$/fiberhome-security-core/fiberhome-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fiberhome-security-demo/fiberhome-security-demo.iml" filepath="$PROJECT_DIR$/fiberhome-security-demo/fiberhome-security-demo.iml" />
+    </modules>
+  </component>
+</project>

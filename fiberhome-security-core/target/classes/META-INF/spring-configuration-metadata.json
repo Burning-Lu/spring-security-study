@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.fiberhome.security.core.properties.SecurityProperties",
+      "name": "fiberhome.security",
+      "type": "com.fiberhome.security.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.fiberhome.security.core.properties.SecurityProperties",
+      "name": "fiberhome.security.browser",
+      "type": "com.fiberhome.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "com.fiberhome.security.core.properties.SecurityProperties",
+      "name": "fiberhome.security.code",
+      "type": "com.fiberhome.security.core.properties.ValidateCodeProperties"
+    }
+  ]
+}
